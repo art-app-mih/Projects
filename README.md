@@ -11,4 +11,4 @@ Here I posted my projects:
 
 4. This is a script with which I competed in kaggle competitions for recognizing dirty and clean dishes using computer vision (https://www.kaggle.com/c/platesv2/). This script is written on Python too. I used the CNN architecture (specifically ResNet50) and the Pytorch framework.
 
-  5.The fifth project I did for RoadAr in the field of computer vision. It is dedicated to the recognition of models of various types of cars.
+5. The fifth project I did for RoadAr in the field of computer vision. It is dedicated to the recognition of models of various types of cars.
