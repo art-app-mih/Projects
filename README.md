@@ -11,4 +11,6 @@ Here I posted my mini-projects:
 
 4. In projects that start with metrics-..., I implemented a client program to send metrics to the server, as well as a server that accepts these metrics/
 
-5. Another project is a telegram bot that remembers visited places.
+5. Another (MyBot.py) project is a telegram bot that remembers visited places.
+
+6. vae_total.py is script, which extract features from data using Variational Autoencoder (VAE was written use Keras).
