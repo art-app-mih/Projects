@@ -9,4 +9,6 @@ Here I posted my mini-projects:
 
 3. The fifth project I did in the field of computer vision. It is dedicated to the recognition of models of various types of cars.
 
-4. In projects that start with metrics-..., I implemented a client program to send metrics to the server, as well as a server that accepts these metrics
+4. In projects that start with metrics-..., I implemented a client program to send metrics to the server, as well as a server that accepts these metrics/
+
+5. Another project is a telegram bot that remembers visited places.
