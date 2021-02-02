@@ -3,7 +3,7 @@ My projects
 
 Here I posted my mini-projects:
 
-1. In the project $price forecasting$, I conduct a detailed analysis of data to predict real estate prices in Moscow. 
+1. In the project "price forecasting", I conducted a detailed analysis of data to predict real estate prices in Moscow. 
 
 2. Project "Final_project" includes a script written in Python. It is written to take part in the Kaggle demolitions. And predicts the winner of the online game "Dota 2" in 5 minutes.
 
